@@ -1,5 +1,5 @@
 #!/bin/sh
-# this is meant to run on the server, so uses GNU syntax
+# this is meant to run on the ds server, so uses GNU syntax
 BASEDIR=$(dirname $0)
 cd $BASEDIR
 
